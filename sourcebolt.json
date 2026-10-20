@@ -1,0 +1,22 @@
+{
+    "version": "0.3.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/candidloom-hub/sourcebolt/releases/download/v0.3.1/sourcebolt_0.3.1_windows_amd64.zip",
+            "bin": [
+                "sourcebolt.exe"
+            ],
+            "hash": "f8a1b16af885174128ca68e552c666cc62c4bcc9e8c105040261fdfb2759345c"
+        },
+        "arm64": {
+            "url": "https://github.com/candidloom-hub/sourcebolt/releases/download/v0.3.1/sourcebolt_0.3.1_windows_arm64.zip",
+            "bin": [
+                "sourcebolt.exe"
+            ],
+            "hash": "a8f69962e289d1d1c4f495dc91189e93c10c89e9d2c1b124cfff40dd4d135cf9"
+        }
+    },
+    "homepage": "https://github.com/candidloom-hub/sourcebolt",
+    "license": "Apache-2.0",
+    "description": "Fast MCP server for Google NotebookLM"
+}
