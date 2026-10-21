@@ -1,19 +1,19 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/candidloom-hub/sourcebolt/releases/download/v0.3.1/sourcebolt_0.3.1_windows_amd64.zip",
+            "url": "https://github.com/candidloom-hub/sourcebolt/releases/download/v0.3.2/sourcebolt_0.3.2_windows_amd64.zip",
             "bin": [
                 "sourcebolt.exe"
             ],
-            "hash": "f8a1b16af885174128ca68e552c666cc62c4bcc9e8c105040261fdfb2759345c"
+            "hash": "5fe9ded7fb8f9fd0dea9d52460b292bc83a03dd1ba99e916dc9f9f05cce86576"
         },
         "arm64": {
-            "url": "https://github.com/candidloom-hub/sourcebolt/releases/download/v0.3.1/sourcebolt_0.3.1_windows_arm64.zip",
+            "url": "https://github.com/candidloom-hub/sourcebolt/releases/download/v0.3.2/sourcebolt_0.3.2_windows_arm64.zip",
             "bin": [
                 "sourcebolt.exe"
             ],
-            "hash": "a8f69962e289d1d1c4f495dc91189e93c10c89e9d2c1b124cfff40dd4d135cf9"
+            "hash": "916a374da5cd31e4b086dedf09f4e4ee564206422e924bc2ba9c5acb9266168d"
         }
     },
     "homepage": "https://github.com/candidloom-hub/sourcebolt",
